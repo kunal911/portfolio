@@ -1,18 +1,16 @@
 # Kunal Manjare
 
-### +1 (385)-456-7863 | kunal.manjare83@gmail.com | github.com/kunal911 | linkedin.com/in/kunal-manjare
+### +1 (385)-456-7863 | kunal.manjare83@gmail.com | [GitHub](https://github.com/kunal911) | [LinkedIn](https://linkedin.com/in/kunal-manjare)
 
 ### Technical Skills: Python, SQL, AWS, Javascript, R, MATLAB, C++
 
-# Kunal's Portfolio
 
 ## Education
 
-- __MS in Computer Science__, University of Utah | Utah, USA (GPA: 3.3/4)                                      
-  - *2022 - 2024*
+- __MS in Computer Science__, University of Utah, Utah, USA (GPA: 3.3/4) | *2022 - 2024*
 
-- __B.E in Electronics & Telecommunications__, University of Pune | Pune, India (GPA: 3.1/4)
-  - *2018 - 2021*
+- __B.E in Electronics & Telecommunications__, University of Pune, Pune, India (GPA: 3.1/4) | *2018 - 2021*
+
  
 ## Work Experience
 
@@ -35,6 +33,7 @@ __Software Developer__ | Remote, India | Apr 2021 - Mar 2022
 ### AI Adventures
 __Data Science Intern__ | Pune, India | Feb 2019 - Jul 2019
 - Led the implementation of a bakery sales demand forecasting model leveraging Random Forest.
+- Applied advanced ensemble techniques, including feature bagging, to optimize predictive capabilities in model optimization and deployment.
 
 ## Projects
 
