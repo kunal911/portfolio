@@ -1,8 +1,8 @@
 # Kunal Manjare
 
-### +1 (385)-456-7863 | kunal.manjare83@gmail.com | [GitHub](https://github.com/kunal911) | [LinkedIn](https://linkedin.com/in/kunal-manjare)
+### +1(385)-456-7863 | kunal.manjare83@gmail.com | [GitHub](https://github.com/kunal911) | [LinkedIn](https://linkedin.com/in/kunal-manjare)
 
-### Technical Skills: Python, SQL, AWS, Javascript, R, MATLAB, C++
+## Technical Skills: Python, SQL, AWS, Javascript, R, MATLAB, C++
 
 
 ## Education
