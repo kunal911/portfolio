@@ -1,8 +1,7 @@
-# Kunal Manjare
 
 ### +1(385)-456-7863 | kunal.manjare83@gmail.com | [GitHub](https://github.com/kunal911) | [LinkedIn](https://linkedin.com/in/kunal-manjare)
 
-## Technical Skills: Python, SQL, AWS, Javascript, R, MATLAB, C++
+#### Technical Skills: Python, SQL, AWS, Javascript, R, MATLAB, C++
 
 
 ## Education
@@ -39,14 +38,16 @@ __Data Science Intern__ | Pune, India | Feb 2019 - Jul 2019
 
 ### Hurricane Visualization - Development of Interactive 3D Hurricane Visualization
 - [GitHub Repo](https://github.com/kunal911/CS-6635-5635-Final-Project)
-- Employed Python to streamline meteorological data for 3D hurricane visualization.
+- Employed Python to streamline meteorological data by converting diverse formats into a unified, accessible structure for visualization.
+ Additionally, crafted scripts to effectively minimize noise within the data.
+- Innovatively implemented Python techniques to generate interactive 3D visualizations of hurricanes, incorporating key parameters such as windspeed, pressure, and precipitation. Pioneered a novel visualization technique to accentuate the hurricane’s eye and its surrounding eyewall for enhanced clarity.
 
 ### Sports Visualization - Web Application providing insights about the Indian Premier League (IPL)
 - [GitHub Page](https://kunal911.github.io/Data-Visualization-Final-Project-/)
-- Developed a web application for IPL rankings and player performance using D3 framework.
+-  Developed a web‑application to display rankings, player performance and represent ball‑by‑ball visualization using D3 framework of JavaScript. Preprocessed the data to parse multiple JSON files to extract and combine information to create my own objects.
+- Two formats of data are used, combined information from JSON for the ball‑by‑ball visualization while the information from CSV is used for the ranking history of the teams.
 
 ### Voraus AgriBot - An Autonomous Image Processing based Agricultural Robot
-- Final Year Undergraduate Project
-- Designed an algorithm to classify raw and ripened tomatoes using Region-based CNN.
-- Created a coordinate measurement system for real-time 3D coordinates using Python-OpenCV.
+- Designed an algorithm to classify raw and ripened tomatoes by using Region‑based Convolutional Neural Network (R‑CNN) and DarkNet‑53,thereby achieving classification accuracy of 90% and 94.67% respectively.
+-  Created a coordinate measurement system that generated 3D coordinates of the tomatoes in real‑time using Python‑ OpenCV. Constructed a functional robotic arm integrated with a three‑jaw gripper to precisely cut a ripened tomato.
 
