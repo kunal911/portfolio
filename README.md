@@ -4,60 +4,50 @@
 
 ### Technical Skills: Python, SQL, AWS, Javascript, R, MATLAB, C++
 
-### Education
-__MS in Computer Science__, University of Utah | Utah, USA (GPA: 3.3/4)                                      
-__B.E in Electronics & Telecommunications__, University of Pune | Pune, India (GPA: 3.1/4)
+# Kunal's Portfolio
 
+## Education
 
-### Work Experience
-__University of Utah‑Department of Psychology__, Statistical Data Analyst | Utah, USA
- Jan 2024 ‑ Present
- • Collaborated on school‑based mental health screening initiatives, actively contributing to the project’s success. Proficiently cleaned,
- coded, andexecuted statistical analyses using Python and R software to assess mental health risk among students.
- • Played a key role in graphing and interpreting ongoing aggregate mental health trends for both individual students and across var
-ious schools. Applied strong analytical skills to derive actionable insights, aiding in the enhancement of student well‑being within
- educational settings.
+- __MS in Computer Science__, University of Utah | Utah, USA (GPA: 3.3/4)                                      
+  - *2022 - 2024*
 
- __University of Utah‑School of Computing__, Research Assistant (Prof. MuZhang) | Utah, USA
- Jan 2023‑ Aug 2023
- • Employed diverse fuzzing techniques, including coverage‑guided and mutation‑based approaches,to uncover security vulnerabilities
- in software systems.
- • Leveraged Slurm on a high‑performance computing cluster to efficiently manage and schedule fuzzing jobs, optimizing configurations
- for enhanced campaign performance and accelerated vulnerability detection.
+- __B.E in Electronics & Telecommunications__, University of Pune | Pune, India (GPA: 3.1/4)
+  - *2018 - 2021*
  
- __Websoft Oceans__, Software Developer | Remote, India
- Apr 2021‑ Mar2022
- • Developed dynamic, user‑friendly e‑commerce websites and web applications using HTML, CSS, Javascript, React.js and Bootstrap.
- Catered to diverse client needs across startups and SMBs in various industries.
- • Fostered a collaborative environment, leading a team of 7 developers. Ensured technical feasibility of design decisions, streamlined
- development processes, and delivered projects exceeding client expectations while adhering to tight deadlines.
- 
- __AI Adventures__, Data Science Intern | Pune, India
- Feb 2019‑ Jul 2019
-• Led the implementation of a bakery sales demand forecasting model leveraging Random Forest, achieving an 84.6% accuracy post systematic 
-hyperparameter tuning and rigorous feature selection. 
-• Applied advanced ensemble techniques, including feature bagging, to optimize predictive capabilities in model optimization and deployment.
+## Work Experience
 
+### University of Utah-Department of Psychology
+__Statistical Data Analyst__ | Utah, USA | Jan 2024 - Present
+- Collaborated on school-based mental health screening initiatives, contributing to the project’s success.
+- Proficiently cleaned, coded, and executed statistical analyses using Python and R.
+- Played a key role in graphing and interpreting ongoing aggregate mental health trends.
 
-### Projects
-__Hurricane Visualization ‑ Development of Interactive 3D Hurricane Visualization using
- Python and Paraview__ [(https://github.com/kunal911/CS-6635-5635-Final-Project)]
- Visualization for Scientific Data(CS 6635)                                             Jan 2023‑ April 2023
- • Employed Python to streamline meteorological data by converting diverse formats into a unified, accessible structure for visualization.
- Additionally, crafted scripts to effectively minimize noise within the data.
- • Innovatively implemented Python techniques to generate interactive 3D visualizations of hurricanes, incorporating key parameters such as windspeed, pressure, and precipitation. Pioneered a novel visualization technique to accentuate the hurricane’s eye and its surrounding eyewall for enhanced clarity.
+### University of Utah-School of Computing
+__Research Assistant (Prof. MuZhang)__ | Utah, USA | Jan 2023 - Aug 2023
+- Uncovered security vulnerabilities in software systems using diverse fuzzing techniques.
+- Leveraged Slurm on a high-performance computing cluster for efficient fuzzing job management.
 
-__Sports Visualization‑ Web Application providing insights about the Indian Premier
- League(IPL)__ [(https://kunal911.github.io/Data-Visualization-Final-Project-/)]
- Visualization for Data Science(CS 6630)                                                 Aug 2022 ‑ Dec 2022
- • Developed a web‑application to display rankings, player performance and represent ball‑by‑ball visualization using D3 framework of JavaScript. Preprocessed the data to parse multiple JSON files to extract and combine information to create my own objects.
- • Two formats of data are used, combined information from JSON for the ball‑by‑ball visualization while the information from CSV is used for the ranking history of the teams.
+### Websoft Oceans
+__Software Developer__ | Remote, India | Apr 2021 - Mar 2022
+- Developed dynamic, user-friendly e-commerce websites and web applications.
+- Led a team of 7 developers, ensuring technical feasibility and timely project delivery.
 
- 
- __Voraus AgriBot ‑ An Autonomous Image Processing based Agricultural Robot that accurately
- classifies, and plucks ripened tomatoes__
- Final Year Undergraduate Project                                                        Aug 2020 ‑ May 2021
- • Designed an algorithm to classify raw and ripened tomatoes by using Region‑based Convolutional Neural Network (R‑CNN) and DarkNet‑53,thereby achieving classification accuracy of 90% and 94.67% respectively
- • Created a coordinate measurement system that generated 3D coordinates of the tomatoes in real‑time using Python‑ OpenCV. Constructed a functional robotic arm integrated with a three‑jaw gripper to precisely cut a ripened tomato
+### AI Adventures
+__Data Science Intern__ | Pune, India | Feb 2019 - Jul 2019
+- Led the implementation of a bakery sales demand forecasting model leveraging Random Forest.
 
- 
+## Projects
+
+### Hurricane Visualization - Development of Interactive 3D Hurricane Visualization
+- [GitHub Repo](https://github.com/kunal911/CS-6635-5635-Final-Project)
+- Employed Python to streamline meteorological data for 3D hurricane visualization.
+
+### Sports Visualization - Web Application providing insights about the Indian Premier League (IPL)
+- [GitHub Page](https://kunal911.github.io/Data-Visualization-Final-Project-/)
+- Developed a web application for IPL rankings and player performance using D3 framework.
+
+### Voraus AgriBot - An Autonomous Image Processing based Agricultural Robot
+- Final Year Undergraduate Project
+- Designed an algorithm to classify raw and ripened tomatoes using Region-based CNN.
+- Created a coordinate measurement system for real-time 3D coordinates using Python-OpenCV.
+
