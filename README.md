@@ -4,13 +4,13 @@
 
 ###Technical Skills: Python, SQL, AWS, Javascript, R, MATLAB, C++
 
-###Education
+### Education
 @MS in Computer Science@, University of Utah | Utah, USA (GPA: 3.3/4)                                      
 @B.E in Electronics & Telecommunications@, University of Pune | Pune, India (GPA: 3.1/4)
 
 
-###Work Experience
-@University of Utah‑Department of Psychology@, Statistical Data Analyst | Utah, USA
+### Work Experience
+@ University of Utah‑Department of Psychology @, Statistical Data Analyst | Utah, USA
  Jan 2024 ‑ Present
  • Collaborated on school‑based mental health screening initiatives, actively contributing to the project’s success. Proficiently cleaned,
  coded, andexecuted statistical analyses using Python and R software to assess mental health risk among students.
