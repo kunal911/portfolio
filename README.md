@@ -51,3 +51,6 @@ __Data Science Intern__ | Pune, India | Feb 2019 - Jul 2019
 - Designed an algorithm to classify raw and ripened tomatoes by using Region‑based Convolutional Neural Network (R‑CNN) and DarkNet‑53,thereby achieving classification accuracy of 90% and 94.67% respectively.
 -  Created a coordinate measurement system that generated 3D coordinates of the tomatoes in real‑time using Python‑ OpenCV. Constructed a functional robotic arm integrated with a three‑jaw gripper to precisely cut a ripened tomato.
 
+## Leadership and Accomplishments
+- Served as the Secretary of the Electronics Engineering Student Association (EESA) from 2017 to 2018, contributing to the growth and development of the organization.
+- Attained the 1st position in a competitive National Level Project Competition hosted by ISB&M College of Engineering, showcasing exceptional skills and innovation.
