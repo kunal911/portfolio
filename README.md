@@ -36,8 +36,13 @@ __Data Science Intern__ | Pune, India | Feb 2019 - Jul 2019
 
 ## Projects
 
+### Covid-19 Data Analysis
+- [Link for the Dashboard](https://public.tableau.com/app/profile/kunal.manjare/viz/Covid-19Analysis_17173816776180/Dashboard1)
+- Utilized Python, Pandas, NumPy, and Scikit-learn to clean, manipulate, and model COVID-19 data, employing machine learning algorithms such as linear regression and random forest regressor for predictive analysis.
+- Created an interactive Tableau dashboard to visualize COVID-19 trends and insights, enhancing data-driven decision-making by querying and manipulating data stored in databases using SQL.
+
 ### Electric Vehicle Data Analysis
-- [Link](https://public.tableau.com/app/profile/kunal.manjare/viz/ElectricVehicleDataAnalysis_17191734201230/Dashboard1?publish=yes)
+- [Link for the Dashboard](https://public.tableau.com/app/profile/kunal.manjare/viz/ElectricVehicleDataAnalysis_17191734201230/Dashboard1?publish=yes)
 - Created a comprehensive dashboard using Tableau to analyze electric vehicle data, including metrics on vehicle usage, Average Electric Vehicle Range, and performance trends.
 - Leveraged Tableau's advanced data visualization capabilities to provide actionable insights and support decision-making processes related to electric vehicle infrastructure and adoption.
 
