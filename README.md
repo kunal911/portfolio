@@ -36,6 +36,11 @@ __Data Science Intern__ | Pune, India | Feb 2019 - Jul 2019
 
 ## Projects
 
+### Electric Vehicle Data Analysis
+- [Link](https://public.tableau.com/app/profile/kunal.manjare/viz/ElectricVehicleDataAnalysis_17191734201230/Dashboard1?publish=yes)
+- Created a comprehensive dashboard using Tableau to analyze electric vehicle data, including metrics on vehicle usage, Average Electric Vehicle Range, and performance trends.
+- Leveraged Tableau's advanced data visualization capabilities to provide actionable insights and support decision-making processes related to electric vehicle infrastructure and adoption.
+
 ### Hurricane Visualization - Development of Interactive 3D Hurricane Visualization
 - [GitHub Repo](https://github.com/kunal911/CS-6635-5635-Final-Project)
 - Employed Python to streamline meteorological data by converting diverse formats into a unified, accessible structure for visualization.
